@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="6" fill="#f04428" />
+  <text x="5" y="45" fill="#181816" font-family="Arial, sans-serif" font-size="42" font-weight="700">s</text>
+  <rect x="35" y="21" width="25" height="31" fill="#181816" />
+  <text x="37" y="43" fill="#f3f0e8" font-family="Arial, sans-serif" font-size="14" font-weight="700">md</text>
+</svg>
